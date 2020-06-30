@@ -3,7 +3,7 @@
 from flask import Flask
 
 PORT = 9090
-MESSAGE = """Allahu Akbar! In the name of Allah.  
+MESSAGE = """Allahu Akbar! InshAllah This will work.  Even if it doesnt, alhamdulillah. In the name of Allah.  
 There is nothing more important than the Tawheed of Allah, and Worshipping Him alone.  With this I say: 
 Hello, world, and I call you to Islam!\n"""
 
